@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | My Site</title>
+    <link>https://timursimdyanov.github.io/en/tags/research/</link>
+      <atom:link href="https://timursimdyanov.github.io/en/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Research</title>
+      <link>https://timursimdyanov.github.io/en/tags/research/</link>
+    </image>
+    
+    <item>
+      <title>Preparing a Work Report</title>
+      <link>https://timursimdyanov.github.io/en/publication/03/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;preparing-a-work-report&#34;&gt;Preparing a Work Report&lt;/h2&gt;
+&lt;p&gt;A work report is an important tool for documenting results, analyzing completed steps, and setting further objectives. Its structure depends on the purpose of the document and the context of its use, but some general principles remain consistent.&lt;/p&gt;
+&lt;p&gt;The introduction of the report outlines the goals and objectives that were to be achieved. This is followed by a description of the methodology: the approaches used, the tools applied, and the rationale for selecting specific methods. The main body of the report presents the results, where it is essential not only to list the facts but also to provide their analytical interpretation.&lt;/p&gt;
+&lt;p&gt;The concluding section contains conclusions and recommendations. Here the effectiveness of the work is evaluated, and the prospects for further development of the project or research are identified.&lt;/p&gt;
+&lt;p&gt;A well-prepared report contributes to knowledge systematization, increases transparency of activities, and serves as a foundation for management decisions or academic evaluation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://timursimdyanov.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;academic-website-as-part-of-a-scholarly-career&#34;&gt;Academic Website as Part of a Scholarly Career&lt;/h2&gt;
+&lt;p&gt;The modern academic environment requires not only publications but also a well-structured digital presence. An academic website serves as a platform to compile a portfolio, organize materials, and present research and projects to a wider audience.&lt;/p&gt;
+&lt;p&gt;One of the most convenient tools for this purpose is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. The platform combines ease of setup, flexibility in content management, and a wide range of options for publishing papers, showcasing projects, and integrating with external services.&lt;/p&gt;
+&lt;p&gt;A website built on Hugo Academic makes it possible to present a list of publications, link profiles from academic databases, structure biographical information, and highlight research interests. Such a resource not only facilitates communication with colleagues and students but also becomes an essential element of academic branding.&lt;/p&gt;
+&lt;p&gt;Using Hugo Academic opens the way to building a modern digital identity for a scholar, emphasizing openness, systematization, and integration with the international academic community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

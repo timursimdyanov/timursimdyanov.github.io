@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://timursimdyanov.github.io/en/tags/academic/</link>
+      <atom:link href="https://timursimdyanov.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://timursimdyanov.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://timursimdyanov.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;academic-website-as-part-of-a-scholarly-career&#34;&gt;Academic Website as Part of a Scholarly Career&lt;/h2&gt;
+&lt;p&gt;The modern academic environment requires not only publications but also a well-structured digital presence. An academic website serves as a platform to compile a portfolio, organize materials, and present research and projects to a wider audience.&lt;/p&gt;
+&lt;p&gt;One of the most convenient tools for this purpose is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. The platform combines ease of setup, flexibility in content management, and a wide range of options for publishing papers, showcasing projects, and integrating with external services.&lt;/p&gt;
+&lt;p&gt;A website built on Hugo Academic makes it possible to present a list of publications, link profiles from academic databases, structure biographical information, and highlight research interests. Such a resource not only facilitates communication with colleagues and students but also becomes an essential element of academic branding.&lt;/p&gt;
+&lt;p&gt;Using Hugo Academic opens the way to building a modern digital identity for a scholar, emphasizing openness, systematization, and integration with the international academic community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://timursimdyanov.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of September was marked by active preparation for the new academic year. I organized my notes, reviewed study plans for upcoming subjects, and identified priority areas for development. My main focus was on the in-depth study of information systems, as they form the foundation of the Business Informatics program. In addition to academic activities, I took part in discussions of organizational matters with fellow students and began preparing for upcoming project assignments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://timursimdyanov.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was dedicated to developing analytical thinking and working with economic indicators. I studied the basics of financial analysis and compared them with the principles of business informatics. To reinforce the material, I completed several practical exercises related to data interpretation and forecasting. In the evenings, I read foreign articles to improve my knowledge of English terminology in the field of information technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://timursimdyanov.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I devoted particular attention to the study of project management. I became familiar with the basic principles of Agile and examined how flexible methodologies are applied in modern business. My preparation included reading articles and analyzing practical examples of implementing digital tools in corporate environments. In addition, I started working on a small academic project that requires linking data analysis tasks with managerial decision-making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://timursimdyanov.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The second week of August was dedicated to working with SQL. I practiced writing queries and analyzing small training datasets. This helped me better understand the connection between theoretical knowledge and its application in business analytics tasks. I also attended a lecture on the development of digital ecosystems, where the role of information systems integration in organizational management was discussed. In my free time, I continued sports activities and watched popular science materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://timursimdyanov.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I focused on revising the fundamentals of business informatics and related disciplines. I dedicated time to systems analysis and explored examples of digital business transformation. In parallel, I began studying methods of working with databases, which will allow me to gain a deeper understanding of data storage and processing. For a change of pace, I visited the university library, where I found several valuable monographs on management and business process organization.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

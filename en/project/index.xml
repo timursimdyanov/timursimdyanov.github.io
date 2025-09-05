@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://timursimdyanov.github.io/en/project/</link>
+      <atom:link href="https://timursimdyanov.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://timursimdyanov.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://timursimdyanov.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;academic-website-as-part-of-a-scholarly-career&#34;&gt;Academic Website as Part of a Scholarly Career&lt;/h2&gt;
+&lt;p&gt;The modern academic environment requires not only publications but also a well-structured digital presence. An academic website serves as a platform to compile a portfolio, organize materials, and present research and projects to a wider audience.&lt;/p&gt;
+&lt;p&gt;One of the most convenient tools for this purpose is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. The platform combines ease of setup, flexibility in content management, and a wide range of options for publishing papers, showcasing projects, and integrating with external services.&lt;/p&gt;
+&lt;p&gt;A website built on Hugo Academic makes it possible to present a list of publications, link profiles from academic databases, structure biographical information, and highlight research interests. Such a resource not only facilitates communication with colleagues and students but also becomes an essential element of academic branding.&lt;/p&gt;
+&lt;p&gt;Using Hugo Academic opens the way to building a modern digital identity for a scholar, emphasizing openness, systematization, and integration with the international academic community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

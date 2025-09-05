@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version Control | My Site</title>
+    <link>https://timursimdyanov.github.io/en/tags/version-control/</link>
+      <atom:link href="https://timursimdyanov.github.io/en/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Version Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Version Control</title>
+      <link>https://timursimdyanov.github.io/en/tags/version-control/</link>
+    </image>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://timursimdyanov.github.io/en/publication/01/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;version-control&#34;&gt;Version Control&lt;/h2&gt;
+&lt;p&gt;Version control is a key component of modern software development. It ensures tracking of changes in source code, enables multiple developers to work on a project simultaneously, and guarantees the preservation of the product’s development history.&lt;/p&gt;
+&lt;p&gt;Version control systems such as &lt;strong&gt;Git&lt;/strong&gt; allow developers to create branches, merge changes, revert to previous code states, and maintain consistency in collaborative work. The use of distributed repositories makes the development process more flexible and resilient to errors.&lt;/p&gt;
+&lt;p&gt;Beyond its technical functions, version control plays a crucial role in organizing teamwork. It promotes transparency, simplifies code review, and forms the foundation for implementing DevOps practices, including continuous integration and deployment.&lt;/p&gt;
+&lt;p&gt;In today’s rapidly evolving field of software engineering, proficiency in version control systems is not merely a useful skill but a fundamental standard of professional practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

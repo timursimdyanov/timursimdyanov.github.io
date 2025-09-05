@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://timursimdyanov.github.io/sitemap.xml

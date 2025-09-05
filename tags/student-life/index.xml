@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | Мой сайт</title>
+    <link>https://timursimdyanov.github.io/tags/student-life/</link>
+      <atom:link href="https://timursimdyanov.github.io/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://timursimdyanov.github.io/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://timursimdyanov.github.io/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/post/05/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Начало сентября ознаменовалось активной подготовкой к новому учебному году. Я систематизировал конспекты, пересмотрел планы по освоению новых дисциплин и выделил приоритетные направления развития. Основное внимание сосредоточил на углублённом изучении информационных систем, так как именно они составляют основу программы по бизнес-информатике. Помимо учёбы, я участвовал в обсуждении организационных вопросов со студентами своего курса и начал готовиться к предстоящим проектным заданиям.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://timursimdyanov.github.io/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя была посвящена развитию аналитического мышления и работе с экономическими показателями. Я изучал основы финансового анализа и сопоставлял их с принципами бизнес-информатики. Для закрепления материала решил несколько практических заданий, связанных с интерпретацией данных и построением прогнозов. Вечерами занимался чтением зарубежных статей, чтобы улучшить знание английской терминологии в области информационных технологий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://timursimdyanov.github.io/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/post/03/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание было уделено изучению проектного управления. Я познакомился с базовыми принципами Agile и рассмотрел, как гибкие методологии применяются в современном бизнесе. Подготовка включала чтение статей и анализ практических примеров внедрения цифровых инструментов в корпоративную среду. Дополнительно я начал работать над небольшим учебным проектом, где требуется связать задачи анализа данных с управленческими решениями.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://timursimdyanov.github.io/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/post/02/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Вторая неделя августа прошла в работе над языком SQL. Я практиковался в написании запросов и анализе небольших учебных наборов данных. Это помогло лучше понять взаимосвязь между теоретическими знаниями и их применением в задачах бизнес-аналитики. Также я посетил лекцию о развитии цифровых экосистем, где обсуждалась роль интеграции информационных систем в управлении организациями. В свободное время продолжил занятия спортом и просмотр научно-популярных материалов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://timursimdyanov.github.io/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе я сосредоточился на повторении основ бизнес-информатики и связанных дисциплин. Уделил время системному анализу и проработке примеров цифровой трансформации компаний. Параллельно начал изучать методы работы с базами данных, что позволит более глубоко понимать процессы хранения и обработки информации. Для отдыха посетил университетскую библиотеку, где нашёл несколько полезных монографий по менеджменту и организации бизнес-процессов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

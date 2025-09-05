@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version Control | Мой сайт</title>
+    <link>https://timursimdyanov.github.io/tags/version-control/</link>
+      <atom:link href="https://timursimdyanov.github.io/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Version Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Version Control</title>
+      <link>https://timursimdyanov.github.io/tags/version-control/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://timursimdyanov.github.io/publication/01/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями&#34;&gt;Управление версиями&lt;/h2&gt;
+&lt;p&gt;Управление версиями является ключевым элементом современной разработки программного обеспечения. Оно обеспечивает отслеживание изменений в исходном коде, позволяет нескольким разработчикам работать над проектом одновременно и гарантирует сохранность истории развития программного продукта.&lt;/p&gt;
+&lt;p&gt;Системы управления версиями, такие как &lt;strong&gt;Git&lt;/strong&gt;, дают возможность создавать ветви, объединять изменения, возвращаться к предыдущим состояниям кода и поддерживать согласованность работы в команде. Использование распределённых репозиториев делает процесс разработки более гибким и устойчивым к ошибкам.&lt;/p&gt;
+&lt;p&gt;Помимо технической функции, управление версиями играет важную роль в организации командной работы. Оно способствует прозрачности, облегчает проведение код-ревью и формирует основу для внедрения практик DevOps, включая непрерывную интеграцию и развертывание.&lt;/p&gt;
+&lt;p&gt;В условиях стремительного развития программной инженерии владение системами контроля версий становится не просто полезным навыком, а необходимым стандартом профессиональной деятельности.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

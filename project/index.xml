@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Мой сайт</title>
+    <link>https://timursimdyanov.github.io/project/</link>
+      <atom:link href="https://timursimdyanov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timursimdyanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://timursimdyanov.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Личный сайт учёного с Hugo Academic</title>
+      <link>https://timursimdyanov.github.io/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://timursimdyanov.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;личный-сайт-как-часть-академической-карьеры&#34;&gt;Личный сайт как часть академической карьеры&lt;/h2&gt;
+&lt;p&gt;Современная академическая среда требует не только научных публикаций, но и грамотного представления исследователя в цифровом пространстве. Личный сайт учёного становится площадкой, где можно собрать портфолио, структурировать материалы, представить исследования и проекты широкой аудитории.&lt;/p&gt;
+&lt;p&gt;Одним из наиболее удобных инструментов для этого является &lt;strong&gt;Hugo Academic&lt;/strong&gt;. Платформа сочетает в себе простоту настройки, гибкость в управлении контентом и широкий спектр возможностей для оформления публикаций, презентации проектов и интеграции со сторонними сервисами.&lt;/p&gt;
+&lt;p&gt;Сайт, созданный на базе Hugo Academic, позволяет продемонстрировать список статей, ссылку на профиль в научных базах данных, структурировать биографическую информацию и отразить интересы исследователя. Такой ресурс не только упрощает коммуникацию с коллегами и студентами, но и становится важным элементом академического брендинга.&lt;/p&gt;
+&lt;p&gt;Использование Hugo Academic открывает путь к формированию современной цифровой идентичности учёного, где акцент делается на открытость, системность и интеграцию с международным академическим сообществом.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
